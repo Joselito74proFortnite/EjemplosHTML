@@ -1,0 +1,25 @@
+/* {border: 0.lem solid black;}/ */
+
+.discontinuo {
+        border: 0.lem dotted black;
+}
+
+.rojo {
+        background-color: red;
+}
+
+.negro {
+        background-color: black;
+}
+
+.texto-blanco {
+        color: white
+}
+
+.redondo {
+        border-radius: 50%;
+}
+
+.borde-verde {
+        border: 0.lem solid green
+}
